@@ -131,7 +131,7 @@ def main():
         layout="wide"
     )
     
-    st.title("🚀 AI CHATBOT - BUILD BY ANISH")
+    st.title("🚀 AI CHATBOT - BUILD BY ARYA")
     st.markdown("*Powered by Google's fast and intelligent Gemini AI*")
     
     # Initialize chatbot
