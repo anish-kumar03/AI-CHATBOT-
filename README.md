@@ -1,5 +1,7 @@
 # AI Chatbot (Gemini + Streamlit)
 
+**Live Demo:** [https://nexus-chat-official.streamlit.app/](https://nexus-chat-official.streamlit.app/)
+
 Production-ready Streamlit chatbot optimized for Streamlit Community Cloud deployment.
 
 ## Features
